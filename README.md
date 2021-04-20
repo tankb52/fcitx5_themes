@@ -2,7 +2,7 @@
 
 ## 1. 主题说明
 
-### 名称：箬Leaf 
+### 1.1 名称：箬Leaf 
 
 切换到了 `fcitx5-rime`，于是做了个主题，其实是抄了知乎网友  (@子善)的一个配色。
 
@@ -16,23 +16,23 @@
 
 
 
-![switch_toast](/home/tankb51/.local/share/fcitx5/themes/箬Leaf/screenshot/switch_toast.png)
+![switch_toast](screenshot/switch_toast.png)
 
 ### 五笔横版-非嵌入编码
 
-![input_wb](/home/tankb51/.local/share/fcitx5/themes/箬Leaf/screenshot/input_wb.png)
+![input_wb](screenshot/input_wb.png)
 
 ### 五笔竖版-非嵌入编码
 
-![input_wb_ver](/home/tankb51/.local/share/fcitx5/themes/箬Leaf/screenshot/input_wb_ver.png)
+![input_wb_ver](screenshot/input_wb_ver.png)
 
 ### 双拼横版-嵌入编码
 
-![input_sp_hor](/home/tankb51/.local/share/fcitx5/themes/箬Leaf/screenshot/input_sp_hor.png)
+![input_sp_hor](screenshot/input_sp_hor.png)
 
 ### 双拼竖版-嵌入编码
 
-![input_sp_ver](/home/tankb51/.local/share/fcitx5/themes/箬Leaf/screenshot/input_sp_ver.png)
+![input_sp_ver](screenshot/input_sp_ver.png)
 
 ## 2. 使用
 
